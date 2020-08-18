@@ -1,28 +1,28 @@
-name,description,latitude,longitude
-Aracaju,Sergipe,-109.091,-370.677
-Belém,Pará,-14.554,-484.898
-Belo Horizonte,Minas Gerais,-199.102,-439.266
-Boa Vista,Roraima,282.384,-606.753
-Brasília,Distrito Federal,-157.795,-479.297
-Campo Grande,Mato Grosso do Sul,-204.486,-546.295
-Cuiabá,Mato Grosso,-15.601,-560.974
-Curitiba,Paraná,-254.195,-492.646
-Florianópolis,Santa Catarina,-275.945,-485.477
-Fortaleza,Ceará,-371.664,-385.423
-Goiânia,Goiás,-166.864,-492.643
-João Pessoa,Paraíba,-711.509,-348.641
-Macapá,Amapá,34.934,-510.694
-Maceió,Alagoas,-966.599,-35.735
-Manaus,Amazonas,-311.866,-600.212
-Natal,Rio Grande Do Norte,-579.357,-351.986
-Palmas,Tocantins,-10.24,-483.558
-Porto Alegre,Rio Grande Do Sul,-300.318,-512.065
-Porto Velho,Rondônia,-876.077,-638.999
-Recife,Pernambuco,-804.666,-348.771
-Rio Branco,Acre,-997.499,-678.243
-Rio de Janeiro,Rio de Janeiro,-229.129,-432.003
-Salvador,Bahia,-129.718,-385.011
-São Luís,Maranhã,-253.874,-442.825
-São Paulo,São Paulo,-235.329,-466.395
-Teresina,Piauí,-509.194,-428.034
-Vitória,Espirito Santo,-203.155,-403.128
+nome,descricao,latitude,longitude
+Fortaleza,Ceará,-3.71664,-38.5423
+Aracaju,Sergipe,-10.9091,-37.0677
+Belém,Pará,-1.4554,-48.4898
+Belo Horizonte,Minas Gerais,-19.9102,-43.9266
+Boa Vista,Roraima,2.82384,-60.6753
+Brasília,Distrito Federal,-15.7795,-47.9297
+Campo Grande,Mato Grosso do Sul,-20.4486,-54.6295
+Cuiabá,Mato Grosso,-15.601,-56.0974
+Curitiba,Paraná,-25.4195,-49.2646
+Florianópolis,Santa Catarina,-27.5945,-48.5477
+Goiânia,Goiás,-16.6864,-49.2643
+João Pessoa,Paraíba,-7.11509,-34.8641
+Macapá,Amapá,0.034934,-51.0694
+Maceió,Alagoas,-9.66599,-35.735
+Manaus,Amazonas,-3.11866,-60.0212
+Natal,Rio Grande Do Norte,-5.79357,-35.1986
+Palmas,Tocantins,-10.24,-48.3558
+Porto Alegre,Rio Grande Do Sul,-30.0318,-51.2065
+Porto Velho,Rondônia,-8.76077,-63.8999
+Recife,Pernambuco,-8.04666,-34.8771
+Rio Branco,Acre,-9.97499,-67.8243
+Rio de Janeiro,Rio de Janeiro,-22.9129,-43.2003
+Salvador,Bahia,-12.9718,-38.5011
+São Luís,Maranhã,-2.53874,-44.2825
+São Paulo,São Paulo,-23.5329,-46.6395
+Teresina,Piauí,-5.09194,-42.8034
+Vitória,Espirito Santo,-20.3155,-40.3128
