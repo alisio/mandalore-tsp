@@ -59,9 +59,6 @@ A Mandalore precisa coletar 27 switches core de rede em Fortaleza, coincidenteme
 
 # Referências:
 
-* Baseado no código disponível em https://github.com/Albina1810/TSP
-* Informações geográficas disponíveis em https://github.com/kelvins/Municipios-Brasileiros
-
 GEO MIDPOINT. Geographic Midpoint Calculation Example. Disponível em <http://www.geomidpoint.com/example.html>. Acesso em 17 de agosto de 2020.
 
 IBGE. IBGE disponibiliza coordenadas e altitudes para 21.304 localidades brasileiras. Disponível em <https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/14126-asi-ibge-disponibiliza-coordenadas-e-altitudes-para-21304-localidades-brasileiras>. Acesso em 17 de agosto de 2020.
