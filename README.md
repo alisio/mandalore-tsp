@@ -57,17 +57,19 @@ A Mandalore precisa coletar 27 switches core de rede em Fortaleza, coincidenteme
 
 ![Rota Renderizada](https://github.com/alisio/mandalore-tsp/blob/master/rota_renderizada.png)
 
-# Referências:
+# Referências
 
-GEO MIDPOINT. Geographic Midpoint Calculation Example. Disponível em <http://www.geomidpoint.com/example.html>. Acesso em 17 de agosto de 2020.
+GEO MIDPOINT. **Geographic Midpoint Calculation Example**. Disponível em \<http://www.geomidpoint.com/example.html>. Acesso em 17 de agosto de 2020.
 
-IBGE. IBGE disponibiliza coordenadas e altitudes para 21.304 localidades brasileiras. Disponível em <https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/14126-asi-ibge-disponibiliza-coordenadas-e-altitudes-para-21304-localidades-brasileiras>. Acesso em 17 de agosto de 2020.
+IBGE. **IBGE disponibiliza coordenadas e altitudes para 21.304 localidades brasileiras**. Disponível em \<https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/14126-asi-ibge-disponibiliza-coordenadas-e-altitudes-para-21304-localidades-brasileiras>. Acesso em 17 de agosto de 2020.
 
-PRADO, Kelvin. Github - kelvins/Municipios-Brasileiros. Disponível em <https://github.com/kelvins/Municipios-Brasileiros>. Acesso em 17 de agosto de 2020.
+PRADO, Kelvin. **Github - kelvins/Municipios-Brasileiros**. Disponível em \<https://github.com/kelvins/Municipios-Brasileiros>. Acesso em 17 de agosto de 2020.
 
-TAYLOR, Roy. Travelling Salesman in scipy
-. Disponível em <https://stackoverflow.com/questions/25585401/travelling-salesman-in-scipy>. Acesso em 17 de agosto de 2020
+TAYLOR, Roy. **Travelling Salesman in scipy**
+. Disponível em \<https://stackoverflow.com/questions/25585401/travelling-salesman-in-scipy>. Acesso em 17 de agosto de 2020
 
-VIASAT. Viasat passa a fornecer internet a bordo para aviões da Aeroméxico .Disponível em <https://viasatdobrasil.com.br/viasat-passa-a-fornecer-internet-a-bordo-para-avioes-da-aeromexico/>. Acesso em 18 de agosto de 2020
+VIASAT. **Viasat passa a fornecer internet a bordo para aviões da Aeroméxico** .Disponível em \<https://viasatdobrasil.com.br/viasat-passa-a-fornecer-internet-a-bordo-para-avioes-da-aeromexico/>. Acesso em 18 de agosto de 2020
 
-WIKIPEDIA. Problema do Caixeiro Viajante. Disponível em <https://pt.wikipedia.org/wiki/Problema_do_caixeiro-viajante>. Acesso em 17 de Agosto de 2020.
+WIKIPEDIA. **2-opt**. Disponível em \<https://en.wikipedia.org/wiki/2-opt>. Acesso em 18 de agosto de 2020.
+
+WIKIPEDIA. **Problema do Caixeiro Viajante**. Disponível em \<https://pt.wikipedia.org/wiki/Problema_do_caixeiro-viajante>. Acesso em 17 de Agosto de 2020.Â
