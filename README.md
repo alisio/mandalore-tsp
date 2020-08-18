@@ -1,15 +1,25 @@
 # Introdução
 
-Este repositório contém o notebook para uso no Google Colab e arquivos de apoio.
+O Problema do Caixeiro Viajante "tenta determinar a menor rota para percorrer uma série de cidades (visitando uma única vez cada uma delas), retornando à cidade de origem. Ele é um problema de otimização NP-difícil inspirado na necessidade dos vendedores em realizar entregas em diversos locais (as cidades) percorrendo o menor caminho possível..." (Wikipedia, 2020)
 
-O notebook contém o passo a passo para a definição da rota de uma empresa de taxi aéreo fictícia, a Mandalore, partindo de Fortaleza e passando por todas as capitais, como exercício baseado na tentativa de solução para o problema do caixeiro viajante.
+Este notebook almeja ilustrar conceitos de aprendizado de máquina aplicados na otimização dos serviços de uma empresa de taxi aéreo fictícia, cujo problema a ser resolvido é similar ao problema do caixeiro viajante.
 
+O algoritmo utiliza heurística construtiva, do tipo 2-opt, codificado em Python, para determinar a rota otimizada dos vôos da empresa aérea.
 
-# Pitch - Mandalore Taxi Aéreo
+Antonio Alisio de Meneses Cordeiro (alisio.meneses@gmail.com)
 
-Para organizações com presença nacional, que desejam transportar cargas ou passageiros, A Mandalore Taxi Aéreo LTDA (empresa fictícia), sediada em Fortaleza-CE, opera nos aeroportos de todas as capitais do Brasil e utiliza IoT e . Diferente das empresas que operam de maneira estática e intempestiva, a Mandalore utiliza algoritmo PCV™ para criar rotas inteligentes, dinâmicas, para uma série de cidades, retornando à cidade de origem, reduzindo o tempo necessário para a viagem e os custos com transporte e combustível.
+# Mandalore Taxi Aéreo LTDA - This is The Way
 
-Autor: Antonio Alisio de Meneses Cordeiro - alisio.meneses@gmail.com
+## Pitch:
+
+Para organizações com presença nacional, que desejam transportar cargas ou passageiros, A Mandalore Taxi Aéreo LTDA (empresa fictícia), sediada em Fortaleza-CE, é uma empresa de transporte aéreo que opera nos aeroportos de todas as capitais do Brasil. Diferente das empresas que operam de maneira estática e intempestiva, a Mandalore utiliza algoritmo patenteado PCV™ e IoT para criar rotas inteligentes, otimizadas e dinâmicas, para uma série de cidades, retornando à cidade de origem, reduzindo o tempo necessário para a viagem e os custos com transporte e combustível.
+
+## Problema:
+
+A empresa Mandalore foi a vencedora de um processo licitatório aberto pelo governo federal, cujo objeto de contratação é o serviço de logística de transporte por via aérea de abrangência nacional.
+
+A Mandalore precisa coletar 27 switches core de rede em Fortaleza, coincidentemente local da sua sede, e entregar um switch core em cada uma das 27 capitais do Brasil percorrendo o menor caminho possível, reduzindo o tempo necessário para a viagem e os custos inerentes ao transporte e combustível
+Â
 
 # Resultado
 
@@ -45,7 +55,7 @@ Autor: Antonio Alisio de Meneses Cordeiro - alisio.meneses@gmail.com
 |26|25|Teresina	Piauí|-5.091940|-42.8034|-0.088871|-0.747060|4655.889103|-414.866863|
 |0|0|Fortaleza	Ceará|-3.716640|-38.5423|-0.064868|-0.672690|4972.586968|-323.012994|
 
-![Rota Renderizada](https://github.com/alisio/tsp/blob/master/rota_renderizada.png)
+![Rota Renderizada](https://github.com/alisio/mandalore-tsp/blob/master/rota_renderizada.png)
 
 # Referências:
 
