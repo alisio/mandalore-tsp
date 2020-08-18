@@ -11,6 +11,9 @@ Para organizações com presença nacional, que desejam transportar cargas ou pa
 
 Autor: Antonio Alisio de Meneses Cordeiro - alisio.meneses@gmail.com
 
+# Resultado
+
+![Rota Renderizada](https://github.com/alisio/tsp/blob/master/rota_renderizada.png)
 
 # Referências:
 
